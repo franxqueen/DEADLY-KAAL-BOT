@@ -57,7 +57,7 @@
                             
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `STRING_SESSION`  =  Get this by using [Repl.it](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+- `STRING_SESSION`  =  Get this by using [Repl.it](https://replit.com/@franxqueen/TALENTED-SESSION)
 - `LOGGER_ID`  =  Make A Private Grp And @Missrose_bot Then type /id.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -74,7 +74,7 @@
 
 
 - We won't be responsible for any kind of ban due to this bot.
-- Dᴇᴀᴅʟʏ Kᴀᴀʟ was made for fun purpose and to make group management easier.
+- Talented was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
