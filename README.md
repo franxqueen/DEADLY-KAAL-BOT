@@ -65,8 +65,8 @@
 # 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - 
 
 1) 𝙾𝚆𝙽𝙴𝚁 - [MR MYSTERIOUS](t.me/@MY5T3R10U5_X)
-2) 𝙾𝚆𝙽𝙴𝚁 - [𝙶𝙰𝚁𝚆](www.github.com/fran_x_queen)
-3) 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [𝚂𝙰𝙼𝙴𝙴𝚁](t.me/fran_x_queen)
+2) 𝙾𝚆𝙽𝙴𝚁 - [𝙶𝙰𝚁𝚆](www.github.com/@fran_x_queen)
+3) 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [𝚂𝙰𝙼𝙴𝙴𝚁](t.me/Afran_x_queen)
 4) 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙴𝚁 - [𝙶𝚄𝙻𝚂𝙷𝙰𝙽](t.me/@MY5T3R10U5_X)
 ------
                                                                                              
