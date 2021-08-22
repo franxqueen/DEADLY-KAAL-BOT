@@ -1,4 +1,4 @@
-FROM deadly-fighters/deadly-kaal-bot:latest
+FROM deadly-fighters/talented-bot:latest
 
 #clonning repo 
 RUN git clone https://github.com/DEADLY-FIGHTERS/MIKASA-USERBOT.git /root/DeadlyBot
