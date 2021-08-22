@@ -4,10 +4,10 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $HELL_REPO == "DEADLY-KAAL-BOT" ]]
+    if [[ $HELL_REPO == "TALENTED-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0RFQURMWS1GSUdIVEVSUy9NSUtBU0EtVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
-    elif [[ $HELL_REPO == "DEADLY-KAAL-BOT" ]]
+    elif [[ $HELL_REPO == "TALENTED-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0RFQURMWS1GSUdIVEVSUy9NSUtBU0EtVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $HELL_REPO =~ $regex ]]
@@ -26,7 +26,7 @@ _repolink () {
 
 start_bot () {
     local zippath
-    zippath="DeadlyBot.zip"
+    zippath="TalentedBot.zip"
     echo "  Downloading source code ..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -35,11 +35,11 @@ start_bot () {
     echo "  Processing Codes..."
     rm -rf "$zippath"
     sleep 5
-    cd $DEADLYPATH
-    echo "  • Starting Deadly Bot •  "
+    cd $TALENTEDPATH
+    echo "  • Starting Talented Bot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m DeadlyBot
+    python3 -m talentedBot
 }
 
 start_bot
